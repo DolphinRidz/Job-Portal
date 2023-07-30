@@ -1,0 +1,1 @@
+<image src="./src/assets/images/main.svg">
